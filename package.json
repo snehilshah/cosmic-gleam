@@ -2,10 +2,13 @@
     "name": "cosmic-gleam",
     "displayName": "Cosmic Gleam",
     "description": "Color Theme with Cosmic Touch",
-    "version": "0.1",
+    "version": "1.0.0",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.22.0"
+    },
+    "repository": {
+        "url": "https://github.com/srshah27/cosmic-gleam"
     },
     "publisher": "sr.shah",
     "author": {
