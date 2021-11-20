@@ -1,0 +1,27 @@
+{
+    "name": "cosmic-gleam",
+    "displayName": "Cosmic Gleam",
+    "description": "Color Theme with Cosmic Touch",
+    "version": "0.1",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "publisher": "sr.shah",
+    "author": {
+        "name": "Snehil Ronak Shah",
+        "email": "snehilshah27@gmail.com"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cosmic Gleam",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cosmic Gleam-color-theme.json"
+            }
+        ]
+    }
+}
