@@ -22,6 +22,9 @@
 		"terminalCursor.background": "#e6e6e6",
 		"terminalCursor.foreground": "#ff4b82",
 		"terminal.border": "#04ecd9",
+
+
+		
 		"activityBar.background": "#333842",
 		"activityBar.foreground": "#07d4b6cc",
 		"activityBarBadge.background": "#528bff",
