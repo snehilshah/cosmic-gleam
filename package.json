@@ -2,15 +2,15 @@
     "name": "cosmic-gleam",
     "displayName": "Cosmic Gleam",
     "description": "Color Theme with Cosmic Touch",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.22.0"
     },
     "repository": {
-        "url": "https://github.com/srshah27/cosmic-gleam"
+        "url": "https://github.com/snehilshah/cosmic-gleam"
     },
-    "publisher": "srshah",
+    "publisher": "snehilshah",
     "author": {
         "name": "Snehil Ronak Shah",
         "email": "snehilshah27@gmail.com"
@@ -20,7 +20,10 @@
         "cosmic",
         "gleam",
         "cosmic gleam",
-        "snehil"
+        "snehil",
+        "catppuccin",
+        "oled",
+        "dark"
     ],
     "categories": [
         "Themes"

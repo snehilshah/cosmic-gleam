@@ -1,9 +1,14 @@
-# README
-## This is the README for your extension "cosmic-gleam"
+# Cosmic-Gleam
 
+## What is different??
 
-Hello, World!!!
+Catppuccin Mocha, with OLED colors.
 
-I'm Snehil Shah
+```
+`#000000`
+`#010101`
+`#020202`
+```
+I keep making small changes and tweaks to improve this color theme. 
 
-Checkout this dark theme
+> This theme   will slowly evolve and move away from the original Catppuccino Mocha theme.
