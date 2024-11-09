@@ -527,7 +527,7 @@
     //"chat.avatarBackground": "#1f1f1f",
     //"chat.avatarForeground": "#cdd6f4",
     //"chat.editedFileForeground": "#e2c08d",
-    "chat.requestBackground": "#0000009e",
+    // "chat.requestBackground": "#0000009e",
     //"chat.requestBorder": "#ffffff1a",
     //"chat.slashCommandBackground": "#34414b8f",
     //"chat.slashCommandForeground": "#40a6ff",
@@ -955,7 +955,7 @@
     {
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#A6E3A1"
+        "foreground": "#a7a7a7"
       }
     },
     {
