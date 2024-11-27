@@ -1,6 +1,7 @@
 # Change Log
 
-
+## [2.1.0]
+Add bold and Italics for tags
 
 ## [2.0.0]
 Catppuccin Mocha, with OLED colors.
