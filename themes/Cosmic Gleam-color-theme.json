@@ -1819,7 +1819,7 @@
         "markup.raw support.asciidoc"
       ],
       "settings": {
-        "foreground": "#FFC799",
+        "foreground": "#FFC799"
       }
     },
     {
@@ -1832,6 +1832,7 @@
       "scope": "meta.separator.markdown",
       "settings": {
         "foreground": "#94E2D5",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1873,6 +1874,34 @@
         "fontStyle": ""
       }
     },
+    {
+      "scope": ["markup.italic"],
+      "settings": {
+        "foreground": "#FFFFFF",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["markup.bold", "markup.bold string"],
+      "settings": {
+        "foreground": "#FFFFFF",
+        "fontStyle": "bold"
+      }
+    },
+    		{
+			"scope": [
+				"markup.bold markup.italic",
+				"markup.italic markup.bold",
+				"markup.quote markup.bold",
+				"markup.bold markup.italic string",
+				"markup.italic markup.bold string",
+				"markup.quote markup.bold string"
+			],
+			"settings": {
+				"foreground": "#FFFFFF",
+				"fontStyle": "bold"
+			}
+		},
     {
       "scope": "string.unquoted.path.nix",
       "settings": {
