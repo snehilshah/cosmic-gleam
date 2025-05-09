@@ -2,7 +2,7 @@
   "name": "cosmic-gleam",
   "displayName": "Cosmic Gleam",
   "description": "Color Theme with Cosmic Touch",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.22.0"
@@ -21,9 +21,11 @@
     "gleam",
     "cosmic gleam",
     "snehil",
+    "snehilshah",
     "catppuccin",
     "oled",
-    "dark"
+    "dark",
+    "noctis"
   ],
   "categories": [
     "Themes"
