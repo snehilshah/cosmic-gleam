@@ -31,9 +31,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Cosmic Gleam",
+                "label": "Cosmic Gleam: High Contrast",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Cosmic Gleam-color-theme.json"
+                "path": "./themes/cosmic-gleam-high-color-theme.json"
             }
         ]
     }
