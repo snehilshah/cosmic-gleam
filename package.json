@@ -31,6 +31,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Cosmic Gleam: Noctis",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cosmic-gleam-noctis-color-theme.json"
+            },
+            {
                 "label": "Cosmic Gleam: High Contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cosmic-gleam-high-color-theme.json"
