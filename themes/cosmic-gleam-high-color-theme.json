@@ -1,5 +1,5 @@
 {
-  "name": "Cosmic Gleam",
+  "name": "Cosmic Gleam: Darkest",
   "type": "dark",
   "colors": {
     "activityBar.activeBackground": "#00000000",
@@ -1890,20 +1890,20 @@
         "fontStyle": "bold"
       }
     },
-    		{
-			"scope": [
-				"markup.bold markup.italic",
-				"markup.italic markup.bold",
-				"markup.quote markup.bold",
-				"markup.bold markup.italic string",
-				"markup.italic markup.bold string",
-				"markup.quote markup.bold string"
-			],
-			"settings": {
-				"foreground": "#FFFFFF",
-				"fontStyle": "bold"
-			}
-		},
+    {
+      "scope": [
+        "markup.bold markup.italic",
+        "markup.italic markup.bold",
+        "markup.quote markup.bold",
+        "markup.bold markup.italic string",
+        "markup.italic markup.bold string",
+        "markup.quote markup.bold string"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF",
+        "fontStyle": "bold"
+      }
+    },
     {
       "scope": "string.unquoted.path.nix",
       "settings": {

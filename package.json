@@ -1,45 +1,45 @@
 {
-    "name": "cosmic-gleam",
-    "displayName": "Cosmic Gleam",
-    "description": "Color Theme with Cosmic Touch",
-    "version": "2.1.0",
-    "icon": "images/icon.png",
-    "engines": {
-        "vscode": "^1.22.0"
-    },
-    "repository": {
-        "url": "https://github.com/snehilshah/cosmic-gleam"
-    },
-    "publisher": "srshah",
-    "author": {
-        "name": "Snehil Ronak Shah",
-        "email": "snehilshah27@gmail.com"
-    },
-    "keywords": [
-        "theme",
-        "cosmic",
-        "gleam",
-        "cosmic gleam",
-        "snehil",
-        "catppuccin",
-        "oled",
-        "dark"
-    ],
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Cosmic Gleam: Noctis",
-                "uiTheme": "vs-dark",
-                "path": "./themes/cosmic-gleam-noctis-color-theme.json"
-            },
-            {
-                "label": "Cosmic Gleam: High Contrast",
-                "uiTheme": "vs-dark",
-                "path": "./themes/cosmic-gleam-high-color-theme.json"
-            }
-        ]
-    }
+  "name": "cosmic-gleam",
+  "displayName": "Cosmic Gleam",
+  "description": "Color Theme with Cosmic Touch",
+  "version": "2.1.0",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "repository": {
+    "url": "https://github.com/snehilshah/cosmic-gleam"
+  },
+  "publisher": "srshah",
+  "author": {
+    "name": "Snehil Ronak Shah",
+    "email": "snehilshah27@gmail.com"
+  },
+  "keywords": [
+    "theme",
+    "cosmic",
+    "gleam",
+    "cosmic gleam",
+    "snehil",
+    "catppuccin",
+    "oled",
+    "dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Gleam: Noctis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-gleam-noctis-color-theme.json"
+      },
+      {
+        "label": "Cosmic Gleam: High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-gleam-high-color-theme.json"
+      }
+    ]
+  }
 }
