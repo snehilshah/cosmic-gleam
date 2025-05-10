@@ -39,7 +39,7 @@
       },
       {
         "label": "Cosmic Gleam: High Contrast",
-        "uiTheme": "vs-dark",
+        "uiTheme": "hc-black",
         "path": "./themes/cosmic-gleam-zzhigh-color-theme.json"
       }
     ]
