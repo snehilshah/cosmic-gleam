@@ -2,7 +2,7 @@
   "name": "cosmic-gleam",
   "displayName": "Cosmic Gleam",
   "description": "Color Theme with Cosmic Touch",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.22.0"
