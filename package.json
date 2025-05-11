@@ -38,9 +38,9 @@
         "path": "./themes/cosmic-gleam-noctis-color-theme.json"
       },
       {
-        "label": "Cosmic Gleam: High Contrast",
+        "label": "Cosmic Gleam: Zen Contrast",
         "uiTheme": "hc-black",
-        "path": "./themes/cosmic-gleam-zzhigh-color-theme.json"
+        "path": "./themes/cosmic-gleam-zen-hc-color-theme.json"
       }
     ]
   }
