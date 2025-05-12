@@ -2,13 +2,20 @@
   "name": "cosmic-gleam",
   "displayName": "Cosmic Gleam",
   "description": "Color Theme with Cosmic Touch",
-  "version": "3.0.2",
+  "license": "MIT",
+  "version": "3.1.0",
   "icon": "images/icon.png",
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": ">=1.90.0",
+    "node": ">=20.0.0"
   },
   "repository": {
-    "url": "https://github.com/snehilshah/cosmic-gleam"
+    "type": "git",
+    "url": "https://github.com/snehilshah/cosmic-gleam",
+    "directory": "."
+  },
+  "bugs": {
+    "url": "https://github.com/snehilshah/cosmic-gleam/issues"
   },
   "publisher": "srshah",
   "author": {
