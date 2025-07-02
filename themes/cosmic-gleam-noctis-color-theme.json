@@ -1823,6 +1823,12 @@
       "settings": {
         "fontStyle": ""
       }
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "fontStyle": "italic bold"
+      }
     }
   ]
 }
