@@ -3,7 +3,7 @@
   "displayName": "Cosmic Gleam",
   "description": "Color Theme with Cosmic Touch",
   "license": "MIT",
-  "version": "3.2.0",
+  "version": "4.2.0",
   "icon": "images/icon.png",
   "engines": {
     "vscode": ">=1.90.0",
@@ -30,6 +30,8 @@
     "snehil",
     "snehilshah",
     "catppuccin",
+    "gruvbox",
+    "material",
     "oled",
     "dark",
     "noctis"
@@ -43,6 +45,11 @@
         "label": "Cosmic Gleam: Noctis",
         "uiTheme": "vs-dark",
         "path": "./themes/cosmic-gleam-noctis-color-theme.json"
+      },
+      {
+        "label": "Cosmic Gleam: Catbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-gleam-catbox-color-theme.json"
       },
       {
         "label": "Cosmic Gleam: Zen Contrast",
