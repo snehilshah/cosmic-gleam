@@ -1,5 +1,13 @@
 # Change Log
 
+## [4.2.1]
+
+- Add border to distinguish sidebar
+
+## [4.0.0]
+
+- Add Catbox theme
+
 ## [3.2.0]
 
 - Comments are now italic and bold

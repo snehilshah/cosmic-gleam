@@ -13,7 +13,7 @@ Experience the Noctis VS Code theme, a sophisticated blend of Catppuccin Mocha i
 
 <details>
   <summary>Gruvbox 📻</summary>
-  <img src="images/previews/noctis.avif" />
+  <img src="images/previews/catbox.png" />
 </details>
 
 <br />
