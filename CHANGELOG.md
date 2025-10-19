@@ -1,5 +1,9 @@
 # Change Log
 
+## [4.3.0]
+
+- support dimmed editor.renderFinalNewline on all themes
+
 ## [4.2.1]
 
 - Add border to distinguish sidebar

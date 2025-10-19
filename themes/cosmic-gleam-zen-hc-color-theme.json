@@ -160,6 +160,7 @@
     "editorInlayHint.typeForeground": "#bac2de",
     "editorLightBulb.foreground": "#f9e2af",
     "editorLineNumber.activeForeground": "#89dceb",
+    "editorLineNumber.dimmedForeground": "#45475a",
     "editorLineNumber.foreground": "#7f849c",
     "editorLink.activeForeground": "#89dceb",
     "editorMarkerNavigation.background": "#010101",

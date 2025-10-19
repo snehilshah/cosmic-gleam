@@ -3,7 +3,7 @@
   "displayName": "Cosmic Gleam",
   "description": "Color Theme with Cosmic Touch",
   "license": "MIT",
-  "version": "4.2.2",
+  "version": "4.3.0",
   "icon": "images/icon.png",
   "engines": {
     "vscode": ">=1.90.0",
@@ -56,6 +56,17 @@
         "uiTheme": "hc-black",
         "path": "./themes/cosmic-gleam-zen-hc-color-theme.json"
       }
-    ]
+    ],
+    "configurationDefaults": {
+      "[cosmic-gleam-noctis]": {
+        "editor.renderFinalNewline": "dimmed"
+      },
+      "[cosmic-gleam-catbox]": {
+        "editor.renderFinalNewline": "dimmed"
+      },
+      "[cosmic-gleam-zen-hc]": {
+        "editor.renderFinalNewline": "dimmed"
+      }
+    }
   }
 }
