@@ -1,5 +1,9 @@
 # Change Log
 
+## [4.3.1]
+
+- made the git diff highlight more prominent
+
 ## [4.3.0]
 
 - support dimmed editor.renderFinalNewline on all themes
