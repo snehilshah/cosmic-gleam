@@ -355,7 +355,7 @@
     "notificationsInfoIcon.foreground": "#7daea3",
     "notificationsWarningIcon.foreground": "#d8a657",
     "panel.background": "#1d2021",
-    "panel.border": "#1d202100",
+    "panel.border": "#ebdbb220",
     "panelSection.border": "#928374",
     "panelSection.dropBackground": "#92837499",
     "panelTitle.activeBorder": "#89b4828a",

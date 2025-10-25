@@ -1,5 +1,9 @@
 # Change Log
 
+## [4.3.2]
+
+- Add border to distinguish the panel as well!!!
+
 ## [4.3.1]
 
 - made the git diff highlight more prominent
