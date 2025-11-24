@@ -33,7 +33,7 @@ M.colors = {
   -- UI specific
   comment = "#928374",
   dark_comment = "#928374",
-  line_nr = "#89b4822f",
+  line_nr = "#89B4822F",
   line_nr_active = "#89b482",
   cursor = "#89b482",
   error = "#ea6962",
@@ -297,6 +297,10 @@ M.groups = function(colors)
     -- Indent Blankline
     IndentBlanklineChar = { fg = c.bg_highlight },
     IndentBlanklineContextChar = { fg = c.green_bright },
+    
+    -- Indent Blankline v3 (new names)
+    IblIndent = { fg = c.bg_highlight },
+    IblScope = { fg = c.green_bright },
   }
 end
 
