@@ -1,5 +1,13 @@
 # Change Log
 
+## [4.4.0]
+
+- Enhanced bold and italic styling for Catbox and Noctis themes
+- Keywords (function, return, if-else, imports) are now italic
+- Types (Go, TypeScript, Rust, etc.) are now bold
+- Namespaces and imported packages are bold
+- Added subtle color for `variable.other.go`
+
 ## [4.3.2]
 
 - Add border to distinguish the panel as well!!!

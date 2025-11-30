@@ -1477,6 +1477,19 @@
       }
     },
     {
+      "scope": "entity.name.namespace, meta.preprocessor.haskell",
+      "settings": {
+        "foreground": "#94E2D5",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "variable.other.go",
+      "settings": {
+        "foreground": "#a6adc8"
+      }
+    },
+    {
       "scope": [
         "source.js constant.other.object.key.js string.unquoted.label.js",
         "source.js punctuation.section.embedded",
@@ -1623,6 +1636,48 @@
         "abstract.definition.fsharp entity",
         "function.anonymous keyword",
         "entity.name.record.field.accessor.elm",
+        "variable.other.member",
+        "keyword.other.import",
+        "keyword.package",
+        "keyword.import",
+        "source.wsd keyword.control.diagram",
+        "keyword.language.gherkin.feature.step",
+        "sharing.modifier",
+        "meta.preprocessor.pragma.nim",
+        "entity.name.scope-resolution.function.call",
+        "source.tf meta.keyword.string",
+        "source.tf meta.keyword.number",
+        "source.scala entity.name.class",
+        "meta.import keyword.control",
+        "keyword.control.export",
+        "source.vue meta.directive punctuation.separator.key-value",
+        "keyword.local.lua",
+        "markup.list",
+        "markup.mark.constrained markup.mark",
+        "markup.block.open",
+        "string.quoted.docstring.multi",
+        "string.quoted.multi",
+        "keyword",
+        "keyword.control",
+        "keyword.operator",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "storage.type.function.arrow",
+        "storage.type.function.pug",
+        "storage.type.function.python",
+        "keyword.other.new",
+        "keyword.control.class.ruby",
+        "keyword.control.def.ruby",
+        "keyword.function.go",
+        "keyword.other.fn.rust",
+        "storage.type.class.python"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
         "support.type.primitive",
         "support.type.builtin",
         "keyword.type.cs",
@@ -1636,46 +1691,12 @@
         "storage.type.function.kotlin",
         "entity.name.type.kotlin",
         "support.type.julia",
-        "variable.other.member",
-        "keyword.other.import",
-        "keyword.package",
-        "keyword.import",
-        "source.wsd keyword.control.diagram",
-        "keyword.language.gherkin.feature.step",
         "source.hlsl storage.type.basic",
         "source.apex keyword.type",
-        "sharing.modifier",
         "source.nim storage.type.concrete",
-        "meta.preprocessor.pragma.nim",
         "storage.type.integral",
-        "entity.name.scope-resolution.function.call",
         "support.class.builtin",
         "comment.block.documentation storage.type.class",
-        "source.tf meta.keyword.string",
-        "source.tf meta.keyword.number",
-        "source.scala entity.name.class",
-        "meta.import keyword.control",
-        "keyword.control.export",
-        "source.vue meta.directive punctuation.separator.key-value",
-        "keyword.local.lua",
-        "markup.list",
-        "markup.mark.constrained markup.mark",
-        "markup.block.open",
-        "string.quoted.docstring.multi",
-        "string.quoted.multi"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": [
-        "keyword",
-        "keyword.control",
-        "keyword.operator",
-        "keyword.other.template",
-        "keyword.other.substitution",
-        "storage.type.function.arrow",
         "constant.other.color",
         "punctuation.accessor",
         "entity.name.section",
@@ -1684,11 +1705,8 @@
         "markdown.heading",
         "markup.inline.raw punctuation.definition.raw",
         "markup.heading",
-        "storage.type.function.pug",
-        "storage.type.function.python",
         "storage.type.annotation",
         "punctuation.bracket.angle",
-        "keyword.other.new",
         "punctuation.separator.question-mark.cs",
         "storage.type.generic.wildcard",
         "source.go keyword.operator",
@@ -1717,14 +1735,9 @@
         "entity.name.function.definition.special.member.destructor.",
         "meta.function.parameters variable punctuation.definition.variable.php",
         "source.wsd keyword.other.activity",
-        "keyword.control.class.ruby",
-        "keyword.control.def.ruby",
-        "keyword.function.go",
-        "keyword.other.fn.rust",
         "markup.other.anchor",
         "markup.list.bullet",
-        "markup.list punctuation.definition",
-        "storage.type.class.python"
+        "markup.list punctuation.definition"
       ],
       "settings": {
         "fontStyle": "bold"
